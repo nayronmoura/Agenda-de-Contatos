@@ -1,4 +1,4 @@
-# padrão do array(Json):
+# padrão do Lista(Json):
 # {
 #   {
 #       nome: 'Nayron'
@@ -9,7 +9,6 @@
 #       }
 #       adress:'Romildo dantas de Queiroz'
 #   }
-#
 # }
 contact = [['', '', ['', ''], '']]
 
